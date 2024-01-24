@@ -9,7 +9,7 @@ Provide instructions on how to set up and run catalog of Potions locally. Includ
 git clone https://github.com/manihari800/redhatAssignment.git
 
 # Navigate to the project folder
-cd your-repo
+cd harry-porter-portion
 
 # Install dependencies
 npm install
