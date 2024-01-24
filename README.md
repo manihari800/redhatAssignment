@@ -1,16 +1,18 @@
-# Getting Started with Create React App
+# catalog of Potions 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Getting Started
 
-## Available Scripts
+Provide instructions on how to set up and run catalog of Potions locally. Include prerequisites, installation steps, and any necessary configuration.
 
-In the project directory, you can run:
+```bash
+# Clone the repository
+git clone https://github.com/manihari800/redhatAssignment.git
 
-### `npm start`
+# Navigate to the project folder
+cd your-repo
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+# Install dependencies
+npm install
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
-
+# Start the development server
+npm start
